@@ -1,0 +1,15 @@
+.btn{
+    background-color: aqua;
+    width: 55px;
+    height: 35px;
+}
+.inp{
+    width: 400px;
+    height: 30px;
+}
+div{
+    color: blueviolet;
+    background-color: aqua;
+    width: 1000px;
+    height: 100px;
+}
